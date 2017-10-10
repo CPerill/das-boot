@@ -52,3 +52,4 @@ Temporary Items
 # Folders to ignore
 .settings/
 target/
+bin/
